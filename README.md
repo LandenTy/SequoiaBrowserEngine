@@ -27,12 +27,11 @@ Sequoia does **not support JPG or PNG** (yet); all rendering is drawn in PyGame.
 ### Demo Page
 A basic example showing Sequoia in action.
 ![Demo Page](images/DemoPage.png)  
-[See the example](./samples/demo_page/index.html)
+[See the example](./samples/demo_page/demo.txt)
 
 ### File Not Found
 How Sequoia handles missing pages.
-![File Not Found](images/FileNotFound.png)  
-[See the example](./samples/file_not_found/index.html)
+![File Not Found](images/FileNotFound.png)
 
 ### Images Example
 Demo of loading and displaying SVG images.
@@ -42,7 +41,7 @@ Demo of loading and displaying SVG images.
 ### Inputs Example
 Interactive demo of Sequoia’s input elements.
 ![Inputs Example](images/InputsExample.png)  
-[See the example](./samples/inputs_demo/index.html)
+[See the example](./samples/inputs_demo/inputs.txt)
 
 Features
  - Text Inputs
