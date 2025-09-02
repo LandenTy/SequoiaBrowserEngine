@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Demo Page</h1>
+    <p>Enter your name:</p>
+    <input type="text"/><br>
+    
+    <hr>
+    
+    <div>
+      <h2>About This Demo</h2>
+      <p>This paragraph demonstrates normal text rendering in a container.</p>
+      <p>Links are also supported: <a href="page2.txt">Go to Page 2</a></p>
+      
+      <h3>Features List:</h3>
+      <ul>
+        <li>Text rendering</li>
+        <li>Input fields (Text, Password, Email, Number, etc.)</li>
+        <li>Buttons</li>
+        <li>Break Tags</li>
+        <li>Links</li>
+        <li>SVG Images</li>
+        <li>Color Picker</li>
+      </ul>
+      
+      <h3>Steps to Try:</h3>
+      <ol>
+        <li>Enter your name in the input box above</li>
+        <li>Click the submit button</li>
+        <li>Check out the lists below</li>
+      </ol>
+      
+      <br>
+    </div>
+    
+    <hr>
+    
+    <p>Another paragraph outside div with <a href="https://www.example.com">external link</a></p>
+    <input type="text" value="Pre-filled input"/>
+    <button>Submit</button>
+
+  </body>
+</html>
