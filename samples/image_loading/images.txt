@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Images in Sequoia</h1>
+    <p>Unfortunately, TechSmart blocks custom images by default. Luckily,</p>
+    <p>we can get around this by using SVG images. Here are some examples:</p>
+    <hr>
+    
+    <svg src="italian_flag.txt" width="150" height="150"/>
+    <svg src="heart.txt" width="150" height="150"/>
+  </body>
+</html>
